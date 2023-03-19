@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <title>MuSic Play</title>
+</head>
+<body>
+    <div class="player">
+        <!-- bảng điều khiển -->
+        <div class="dashboar">
+            <!-- header -->
+            <header>
+                <div class="header__down ">
+                    <i class="fa-solid fa-thumbs-down icon-down"></i>
+                </div>
+               
+                <div class="content-header">
+                    <h4>Now Playing : </h4>
+                    <h2>Bài Hát</h2>
+                </div>
+                 <div class="header__cong">
+                    <i class="fa-solid fa-address-card icon-cong"></i>
+                </div>
+            </header>
+            <!-- phan CD -->
+            <div class="cd">
+                <div class="effect_3d">
+                    <div class="cd-frame" style="background-image: url('https://icdn.dantri.com.vn/thumb_w/770/2022/05/27/diep-kha-7-1653622151359.jpg');"></div>
+                </div>
+            </div>
+            <!-- control -->
+            <div class="control">
+                <div class="btn control-repeat">
+                    <i class="fa-solid fa-repeat"></i>
+                </div>
+                <div class="btn control-prev">
+                    <i class="fa-sharp fa-solid fa-hand-point-left"></i>
+                </div>
+                <div class="btn control-toggle_play">
+                    <i class="fa-sharp fa-solid fa-ribbon icon-pause"></i>
+                    <i class="fa-brands fa-playstation icon-play"></i>
+                </div>
+                <div class="btn control-next">
+                    <i class="fa-solid fa-hand-point-right"></i>
+                </div>
+                <div class="btn control-random">
+                    <i class="fa-solid fa-shuffle"></i>
+                </div>
+            </div>
+            <!-- audio -->
+            <input id="progress" class="progress" type="range" value="0" step="1" min="0" max="100">
+
+            <audio id="audio" src=""></audio>
+        </div>
+        <!-- danh sách bài hát -->
+        <div class="playlist">
+            
+            <!-- <div class="song">
+                <div class="thumb" style="background-image: url(https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/2/d/5/c/2d5cc8bc9f930ce292c464e929ea31fb.jpg)">
+                </div>
+                <div class="body">
+                    <h3 class="title">Tên bài hát</h3>
+                    <p class="author">Ca sĩ / Nhóm Nhạc</p>
+                </div>
+                <div class="option">
+                    <i class="fa-solid fa-ellipsis"></i>
+                </div>
+            </div> -->
+        </div>
+    </div>
+    <script src="./assets/ct/music.js"></script>
+</body>
+</html>
