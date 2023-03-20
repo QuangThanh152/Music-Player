@@ -200,6 +200,7 @@ header h2 {
   }
   
   .song .title {
+    padding-bottom: 3px;
     font-size: 18px;
     color: #fff;
   }

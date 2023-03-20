@@ -24,110 +24,110 @@ const app = {
         {
             name: 'Bật tình yêu lên',
             singer: 'Hòa Minz - Tăng Nhật Tâng',
-            path: '/assets/music/BatTinhYeuLen-TangDuyTanHoaMinzy-8715666.mp3',
-            image: '/assets/img/battylen.jpg'
+            path: 'https://docs.google.com/uc?id=1rzT3E8CjRfeW528pZQq_O-1h9hvmSI8C',
+            image: 'https://i.scdn.co/image/ab67616d0000b27353d06fd3155c1b64bf3d25ca'
         },
         {
             name: 'Sao Cũng Được',
             singer: 'Quang Thành hehe',
-            path: '/assets/music/Sao-Cung-Duoc-Thanh-Dat.mp3',
-            image: '/assets/img/11.jpg'
+            path: 'https://docs.google.com/uc?id=1KfTADnbqZ_JmBw3G5F0Lp2y9u46jsbEo',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/6/5/5/a65573e6905dc4f29f59c49ea04866cf.jpg'
         },
         {
             name: 'Suy Nghĩ Trong Anh',
             singer: 'Khắc Việt',
-            path: '/assets/music/suynghitronganh.mp3',
-            image: '/assets/img/3.jpg'
+            path: 'https://docs.google.com/uc?id=1Uh5uBpyDVgEw4NRCu1ADMjHA4Jq2Xs6c',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/4/c/e/b4ce00d6c2ef8e46f86a8eabdf717116.jpg'
         },
         {
             name: 'Đến Sau 1 Người',
             singer: 'Châu Khải Phong',
-            path: '/assets/music/DenSauMotNguoi-ChauKhaiPhong-5530819.mp3',
-            image: '/assets/img/4.jpg'
+            path: 'https://docs.google.com/uc?id=1Gi3cb91TaBZ1tLgdNEBTjUoKn1FUT7Hb',
+            image: 'https://i.scdn.co/image/ab67616d0000b273ac5a6914ac4eed929a75033b'
         },
         {
             name: 'Kiếp Má Hồng',
             singer: 'TLong',
-            path: '/assets/music/kiepmahong.mp3',
-            image: '/assets/img/5.jpg'
+            path: 'https://docs.google.com/uc?id=1CCJPBTvlb3BVS0mUciRIP1pv4uM6EjPw',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/9/2/2/d922bc6bb76d3cbf319b2877a199ef6f.jpg'
+        },
+        {
+            name: 'Kiếp Má Hồng Remix',
+            singer: 'TLong',
+            path: 'https://docs.google.com/uc?id=1dcfrQha4yl9Non4DUAqFrPLvQktiwZ05',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/9/2/2/d922bc6bb76d3cbf319b2877a199ef6f.jpg'
         },
         {
             name: 'Em Là Kẻ Đáng Thương',
             singer: 'Phát Huy T4',
-            path: '/assets/music/EmLaKeDangThuong-PhatHuyT4-8504796.mp3',
-            image: '/assets/img/6.jpg'
+            path: 'https://docs.google.com/uc?id=1xLMYR631WrVWp9U08s-zgd3jTXt5kvvj',
+            image: 'https://i.scdn.co/image/ab67616d0000b273e6f362e9f1966e14e0056764'
         },
         {
             name: 'Người Đáng Thương Là Anh',
             singer: 'Only C',
-            path: '/assets/music/NguoiDangThuongLaAnhGuhancciRemix-OnlyC-8540439.mp3',
-            image: '/assets/img/7.jpg'
+            path: 'https://docs.google.com/uc?id=16_Wr_i9_RAdOgPArrz7r82vRqGm1sPIa',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/1/a/d/71adfd9bf22ced6fbe5f36806fd2d030.jpg'
         },
         {
             name: 'Đừng Như Thói Quen',
             singer: 'Jaykii FT Ai Đó',
-            path: '/assets/music/dungnhuthoiquen.mp3',
-            image: '/assets/img/8.jpg'
+            path: 'https://docs.google.com/uc?id=1mT-IA0YOeP0df_HRLD6tqMEHWfXsYrY2',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/5/3/0853118a8d14808d8526bc717409ac90.jpg'
         },
         {
             name: 'Tận Cùng Của Nổi Nhớ',
             singer: 'Will FT Hansara',
-            path: '/assets/music/tancungnoinho.mp3',
-            image: '/assets/img/9.jpg'
+            path: 'https://docs.google.com/uc?id=1vj3YX66MDnpEKYilFefgS4DT-FRkEM-S',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/a/1/f/1a1f5688569dfc52005abf304676ea63.jpg'
         },
         {
             name: 'Người Ấy',
             singer: 'Trịnh T.Bình',
-            path: '/assets/music/nguoiay.mp3',
-            image: '/assets/img/10.jpg'
+            path: 'https://docs.google.com/uc?id=1DTQ9QVHq7lPiR6-2mvlH9edemCIwozjI',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/c/a/ca79cd05ebbc2de2536374d3a710df85_1356577120.jpg'
         },
         {
             name: 'Em Đồng Ý',
             singer: 'Đực Phúc',
-            path: '/assets/music/emdongy.mp3',
-            image: '/assets/img/emdongy.jpg'
+            path: 'https://docs.google.com/uc?id=1sMEO9Sur6qL2jBb57sE_uNfPsoZpiU9t',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/4/a/0a4ad6914b4a26304b843ba464acbd6b.jpg'
         },
         {
-            name: 'Kiếp Má Hồng Remix',
-            singer: '......',
-            path: '/assets/music/KiepMaHongRinRemix-TLong-7584148.mp3',
-            image: '/assets/img/fallinlove.jpg'
-        },
-        {
-            name: 'Nhất Trên ĐờiĐời',
+            name: 'Nhất Trên Đời',
             singer: 'Vanh',
-            path: '/assets/music/nhattrendoi.mp3',
-            image: '/assets/img/nhattrendoi.jpg'
+            path: 'https://docs.google.com/uc?id=1BO73UltrMVFpth7HZsr6VxfYB6qeB-pa',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/b/6/d/db6de68045be6546a9e361b6dbe7d5c7.jpg'
         },
         {
             name: 'Fall In Love',
             singer: 'Na',
-            path: '/assets/music/fallinlove.mp3',
-            image: '/assets/img/fallinlove.jpg'
+            path: 'https://docs.google.com/uc?id=1six2VX81SskL-HDN9hT1eN5Lr-OAWJs9',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/d/b/4/9db4ac04f83b52d6d0cff947a7bc707a.jpg'
         },
         {
             name: '11:11P',
             singer: 'Bảo Uyên với Ai Đó ',
-            path: '/assets/music/111111Gio11Phut-MiiNaDREAMeRRIN9BaoUyenDREAMeRVietNam-8822645.mp3',
-            image: '/assets/img/fallinlove.jpg'
+            path: 'https://docs.google.com/uc?id=1six2VX81SskL-HDN9hT1eN5Lr-OAWJs9',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/2/5/6/22569c92ca5e856f643d1ead533f5d6d.jpg'
         },
         {
             name: 'Không Yêu Xin Đừng Nói',
             singer: 'của Thằng Nào Đó mà Nhát Search =))',
-            path: '/assets/music/khongyeuxindungnoi.mp3',
-            image: '/assets/img/cuoi.jpg'
+            path: 'https://docs.google.com/uc?id=1CCZYz0NvU9zPzDaoxJKdLSjpYm1KXIE3',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/4/5/9/f459f1c68cb8be999b8a88022153ae40.jpg'
         },
         {
             name: 'Cơn Mưa Ngang Qua',
             singer: 'Sếp',
-            path: '/assets/music/sep.mp3',
-            image: '/assets/img/hahaah.jpg'
+            path: 'https://docs.google.com/uc?id=11oFSbBupE1K4oc-tIUCbite24tNlqnIS',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/a/a/b/8aab7a0386dd9c24b90adcc5ef5a7814.jpg'
         },
         {
             name: 'Sóng 5 Củ',
             singer: 'Jack 5 Trịu',
-            path: '/assets/music/jack5cu.mp3',
-            image: '/assets/img/hahaah.jpg'
+            path: 'https://docs.google.com/uc?id=1KyRBN8Z-tjgoCg8R3vBECyE4P6vexrC9',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKIbEW9TH2ixLW6EDNdLZBZGlogLXDOp7OXBMN_lvL4ROsSvmXNZxwCq1gRsJ00XuFIc&usqp=CAU'
         },
     ],
     // Render songs
