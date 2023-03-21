@@ -22,6 +22,91 @@ const app = {
     isRepeat: false,
     songs: [
         {
+            name: 'Love Yourself',
+            singer: 'Justin Bieber',
+            path: 'https://docs.google.com/uc?id=19es-5kiY7FlFn6nWXqMH96-6jON-IFdf',
+            image: 'https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-dep-de-thuong.jpg'
+        },
+        {
+            name: 'Để Giành Khi thức giấc',
+            singer: 'Sivan',
+            path: 'https://docs.google.com/uc?id=1ypKkpBp7nHtUjrzrf2WZdbq3FxiNl6wo',
+            image: 'https://i1.sndcdn.com/artworks-Q94S8OYvGR6YOdzM-5uDpJg-t500x500.jpg'
+        },
+        {
+            name: 'Hẹn em ở lần yêu thứ 2',
+            singer: 'Nguyenn Ft Đặng Tuấn Vũ',
+            path: 'https://docs.google.com/uc?id=1iLXtos6krnt8XW-jAiDJq2IFgj_p5Z3J',
+            image: 'https://avatar-ex-swe.nixcdn.com/song/2023/03/14/a/6/c/5/1678761772034_640.jpg'
+        },
+        {
+            name: 'Là Anh (成为)',
+            singer: 'Mộng Nhiên',
+            path: 'https://docs.google.com/uc?id=1cdCoxAC8LMzioVNWLAL5a4xvHTsvF9AO',
+            image: 'https://bedental.vn/wp-content/uploads/2022/11/hot-girl.jpg'
+        },
+        {
+            name: 'Darkside',
+            singer: 'Alan Walker',
+            path: 'https://docs.google.com/uc?id=1yOolip1Pdo-mMt_k32MlEtREiBanOQUT',
+            image: 'https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-xinh-cuc-dep.jpg'
+        },
+        {
+            name: 'Playdate',
+            singer: 'Melanie Martinez',
+            path: 'https://docs.google.com/uc?id=1fz5--b6-2l3FHJ6dlJqrJkDf0_mEs-52',
+            image: 'https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/lce_jwqqc/2020_10_13/3_1602581704108161769165.jpg'
+        },
+        {
+            name: 'Clean Bandit',
+            singer: 'Symphony',
+            path: 'https://docs.google.com/uc?id=1zNKzuT05eWCitcP7TrhxTSkTzaxVfYEA',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XXqG65fLWHO1_UD6MlO3eIZM4ncNECNTxw&usqp=CAU'
+        },
+        {
+            name: 'Chỉ là muốn nói 3000',
+            singer: 'Khải',
+            path: 'https://docs.google.com/uc?id=1dUk8ltEAWfftd1M2eo08iZkSNVbQ1r8N',
+            image: 'https://i.ex-cdn.com/giadinhonline.vn/files/content/2021/07/31/hotgirl-le-phuong-anh-13-1402588.jpg'
+        },
+        {
+            name: 'Imagine',
+            singer: 'Demons',
+            path: 'https://docs.google.com/uc?id=1_FCKWjnmFMeMpA2cqOksl3w4O1ZU6a8M',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aohD4OfYpzHbABdxn0wkBfISqirmmCMQ7A&usqp=CAU'
+        },
+        {
+            name: 'Âm Thầm Bên Ghệ',
+            singer: 'Sơn Tùng MTP',
+            path: 'https://docs.google.com/uc?id=1Z7bywLAsWiVuYgcddGHhXVgsredXecLK',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9Y851PDT9_nI-Km35WDoG-tJFw21mD7ZKnE8VFLYBNkNfqC0EwYCQysZz3m8yvLEf7s&usqp=CAU'
+        },
+        {
+            name: 'Unstoppable Remix',
+            singer: 'Sia',
+            path: 'https://docs.google.com/uc?id=1RIQVVoUqW-CAn78jIqoeSN42DAV2S7zT',
+            image: 'https://m.media-amazon.com/images/M/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1_FMjpg_UX1000_.jpg'
+        },
+        {
+            name: 'Why Not Me',
+            singer: 'Enrique Iglesias',
+            path: 'https://docs.google.com/uc?id=1M5dwvKWf3qMTHTNOtsukhj7vM4YWvFSi',
+            image: 'https://avatar-ex-swe.nixcdn.com/song/2018/09/20/2/c/a/3/1537413925557_640.jpg'
+        },
+        {
+            name: 'We Dont Talk Anymore',
+            singer: 'Charlie Puth',
+            path: 'https://docs.google.com/uc?id=1YYq8n_x03_RI8F5F0HiYFpJJcbx0yC7h',
+            image: 'https://thenewsmexico.com/wp-content/uploads/2019/06/image5-12.jpg'
+        },
+        {
+            name: 'gió',
+            singer: 'Jank',
+            path: 'https://docs.google.com/uc?id=1HCPLOMfLJl0N22aohkHQo5ypWMj07ySd',
+            image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/3/6/d/536dc591405fc70b6f4932eeb18337e8.jpg'
+        },
+        ///////////////////////////////////////
+        {
             name: 'Bật tình yêu lên',
             singer: 'Hòa Minz - Tăng Nhật Tâng',
             path: 'https://docs.google.com/uc?id=1rzT3E8CjRfeW528pZQq_O-1h9hvmSI8C',
@@ -53,7 +138,7 @@ const app = {
         },
         {
             name: 'Kiếp Má Hồng Remix',
-            singer: 'TLong',
+            singer: 'TLong Remiz',
             path: 'https://docs.google.com/uc?id=1dcfrQha4yl9Non4DUAqFrPLvQktiwZ05',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/9/2/2/d922bc6bb76d3cbf319b2877a199ef6f.jpg'
         },
@@ -89,7 +174,7 @@ const app = {
         },
         {
             name: 'Em Đồng Ý',
-            singer: 'Đực Phúc',
+            singer: 'Đức Phúc',
             path: 'https://docs.google.com/uc?id=1sMEO9Sur6qL2jBb57sE_uNfPsoZpiU9t',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/4/a/0a4ad6914b4a26304b843ba464acbd6b.jpg'
         },
@@ -107,7 +192,7 @@ const app = {
         },
         {
             name: '11:11P',
-            singer: 'Bảo Uyên với Ai Đó ',
+            singer: 'Bảo Uyên Ft Ai Đó ',
             path: 'https://docs.google.com/uc?id=1six2VX81SskL-HDN9hT1eN5Lr-OAWJs9',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/2/5/6/22569c92ca5e856f643d1ead533f5d6d.jpg'
         },
@@ -270,7 +355,7 @@ const app = {
                 }
                 // xử lý khi click vào lựa chọn(option) của song
                 if (optionSong){
-
+                    
                 }
             }
         }
